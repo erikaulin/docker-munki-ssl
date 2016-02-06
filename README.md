@@ -84,7 +84,7 @@ Test out the client:
 
 ### Maintainers
 
-* Erik Aulin (erik@ustwo.com)
+* Erik Aulin (erik@aulin.co)
 
 #### Sources
 
